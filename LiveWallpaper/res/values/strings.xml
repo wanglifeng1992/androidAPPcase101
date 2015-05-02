@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General -->
+    <skip />
+    <!-- Application name -->
+    <string name="app_name">动态墙纸</string>
+
+	<string name="livewallpaper_settings">设置</string>
+	<string name="livewallpaper_settings_title">选择测试模式</string>
+	<string name="livewallpaper_settings_summary">选择一种测试模式来显示</string>
+	<string name="livewallpaper_movement_title">运动</string>
+	<string name="livewallpaper_movement_summary">应用运动测试模式</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">接硬币游戏</string>
+    <string name="button_start">开始</string>
+    <string name="button_instruction">说明</string>
+    <string name="button_exit">结束</string>
+    <string name="button_back">返回</string>
+    <string name="text_instruction">游戏方式：\n\n\t左右倾斜手机来控制箱子的位置，只要箱子能接到硬币就能得分！</string>    
+</resources>

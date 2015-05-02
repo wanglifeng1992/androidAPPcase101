@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	androidrientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<LinearLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:baselineAligned="false">
+		<EditText android:text="" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+id/editText1"
+			android:maxEms="15" android:minEms="10" android:layout_gravity="center_vertical">
+		</EditText>
+		<Button android:text="转到" android:id="@+id/turn"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+	</LinearLayout>
+	<LinearLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:baselineAligned="false">
+		<WebView android:id="@+id/webView1" android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+		</WebView>
+	</LinearLayout>
+</LinearLayout>
